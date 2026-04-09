@@ -1,9 +1,10 @@
-Guilherme de Oliveira Detling RA:2301803
-Danilo Cristina de Lima
-Pedro Nyonell
-Guilherme Nascimento 
-João Nascimento
-Eduardo 
+João Vitor dos Santos Pereira                          RA:2301276
+Guilherme Henrique Augusto do Nascimento               RA: 1900975
+Guilherme de Oliveira Detling                          RA:2301803
+Eduardo Paro Saraiva                                   RA:2300613
+Danilo Cristino de Lima			                           RA:2301664
+Pedro Nyonell                                           RA:
+
 
 
 Este projeto é um robô feito com LEGO Mindstorms EV3 capaz de resolver um cubo mágico automaticamente.
